@@ -2,7 +2,7 @@
     Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Suyash Joshi
 </h1>
 
-<h2 align="center">A Full Stack developer and Machine Learning enthusiast!</h2>
+<h2 align="center">Full Stack web developer and Competitive Programmer!</h2>
 <p align="center">
 I am a third-year computer engineering undergraduate at Pune Institute of Computer Technology (<a href="https://pict.edu">PICT</a>).
 I have keen intrest in the fields of Computer Science and applying gained knowledge to make things which can benafit others.
