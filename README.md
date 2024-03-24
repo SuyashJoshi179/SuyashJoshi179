@@ -2,11 +2,13 @@
     Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Suyash Joshi
 </h1>
 
-<h2 align="center">Full Stack web developer and Competitive Programmer!</h2>
+<h2 align="center">Full Stack Software Engineer and Problem Solver</h2>
 <p align="center">
-I am a final-year computer engineering undergraduate at Pune Institute of Computer Technology (<a href="https://pict.edu">PICT</a>).
-I have keen intrest in the fields of Computer Science and applying gained knowledge to make things which can benafit others.
+    Tech Geek, Currently a Software Developement Engineer I at <a href="https://github.com/Mastercard">Mastercard</a>. 
+    <br> Completed my undergraduate in Computer Engineering at Pune Institute of Computer Technology (<a href="https://pict.edu">PICT</a>).
+    <br> <br><i><b>"Building impactful solutions with the power of computer science. Let's bridge the gap between innovation and real-world problems"</b></i>
 </p>
+
 <hr>
 
 <div align="center">
@@ -20,3 +22,5 @@ I have keen intrest in the fields of Computer Science and applying gained knowle
  <br>
  
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashjoshi179&theme=algolia&layout=compact)
+
+</div>
