@@ -2,10 +2,10 @@
     Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Suyash Joshi
 </h1>
 
-<h2 align="center">Full Stack Software Engineer and Problem Solver</h2>
+<h2 align="center">Software Engineer and Problem Solver</h2>
 <p align="center">
-    Tech Geek, Currently a MS Compyter Science Gradyate at [Stony Brook University](https://www.cs.stonybrook.edu).
-    <br> Ex Software Developement Engineer II at <a href="https://github.com/Mastercard">Mastercard</a>. 
+    Tech Geek, Currently a MS Compyter Science Gradyate at <a href="https://www.cs.stonybrook.edu">Stony Brook University</a>.
+    <br> Ex-Software Developement Engineer II at <a href="https://github.com/Mastercard">Mastercard</a>. 
     <br> Completed my undergraduate in Computer Engineering at Pune Institute of Computer Technology (<a href="https://pict.edu">PICT</a>).
     <br> <br><i><b>"Building impactful solutions with the power of computer science. Let's bridge the gap between innovation and real-world problems"</b></i>
 </p>
