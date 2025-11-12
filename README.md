@@ -4,7 +4,7 @@
 
 <h2 align="center">Software Engineer and Problem Solver</h2>
 <p align="center">
-    Tech Geek, Currently a MS Compyter Science Gradyate at <a href="https://www.cs.stonybrook.edu">Stony Brook University</a>.
+    Tech Geek, Currently a MS Computer Science Graduate at <a href="https://www.cs.stonybrook.edu">Stony Brook University</a>.
     <br> Ex-Software Developement Engineer II at <a href="https://github.com/Mastercard">Mastercard</a>. 
     <br> Completed my undergraduate in Computer Engineering at Pune Institute of Computer Technology (<a href="https://pict.edu">PICT</a>).
     <br> <br><i><b>"Building impactful solutions with the power of computer science. Let's bridge the gap between innovation and real-world problems"</b></i>
