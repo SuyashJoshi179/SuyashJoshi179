@@ -5,7 +5,7 @@
 <h2 align="center">Systems &amp; ML-Infrastructure Engineer</h2>
 <p align="center">
     I build and optimize the systems that train and serve large models: GPU scheduling, Kubernetes ML infrastructure, and inference and training efficiency.
-    <br> Currently interning as a Systems &amp; Infrastructure Engineer on <a href="https://www.linkedin.com/company/linkedin">LinkedIn</a>'s Compute Infrastructure team, and an MS Computer Science student at <a href="https://www.cs.stonybrook.edu">Stony Brook University</a>.
+    <br> Currently interning as a Systems &amp; Infrastructure Engineer on <a href="https://github.com/linkedin">LinkedIn</a>'s Compute Infrastructure team, and an MS Computer Science student at <a href="https://www.cs.stonybrook.edu">Stony Brook University</a>.
     <br> Previously Software Engineer II at <a href="https://github.com/Mastercard">Mastercard</a>. Undergrad in Computer Engineering at Pune Institute of Computer Technology (<a href="https://pict.edu">PICT</a>).
     <br> <br><i><b>Working at the intersection of ML and systems: GPU sharing, distributed training, and inference internals.</b></i>
 </p>
